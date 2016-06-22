@@ -64,3 +64,10 @@ optional arguments:
   -o SAIDA, --saida SAIDA
                         Pasta na qual será salva as assinaturas.
 ```
+
+# TODO
+- [x] ler arquivo xslx com os dados dos funcionarios
+- [x] aceitar argumentos da "linha de comando"
+- [x] escolher colunas e linhas onde estao os dados
+- [ ] checar se existe conteudo
+- [ ] passar outros tipos de argumentos como fonte, dimensao da imagem de saida, qualidade da imagem, extensao, posicionamento...
